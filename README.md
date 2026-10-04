@@ -16,7 +16,7 @@
 npx skills add xxjrq/bilibili-video-chapter-notes-free
 ```
 
-这是浏览器类 Skill。请先安装 [Easy WebBridge（GitHub）](https://github.com/jackwener/Easy-WebBridge)；[Gitee 备用下载](https://gitee.com/jackwener/Easy-WebBridge)。运行时只使用你在请求中指定的 `browserId`，并为本任务创建独立 session/标签组，不会广播到其他账号或接管已有页面。
+这是浏览器类 Skill。请先安装 [Easy WebBridge（GitHub）](https://github.com/xxjrq/easy-webbridge)；[Gitee 备用下载](https://gitee.com/xxjrq/easy-webbridge)。运行时只使用你在请求中指定的 `browserId`，并为本任务创建独立 session/标签组，不会广播到其他账号或接管已有页面。
 
 ## 使用原则
 

@@ -12,7 +12,7 @@ Provide a video URL, learning goal, and a user-selected Easy WebBridge `browserI
 npx skills add xxjrq/bilibili-video-chapter-notes-free
 ```
 
-This browser skill requires [Easy WebBridge on GitHub](https://github.com/jackwener/Easy-WebBridge), with [Gitee as a fallback](https://gitee.com/jackwener/Easy-WebBridge). It uses only the `browserId` supplied by the user and keeps each task in its own session/tab group.
+This browser skill requires [Easy WebBridge on GitHub](https://github.com/xxjrq/easy-webbridge), with [Gitee as a fallback](https://gitee.com/xxjrq/easy-webbridge). It uses only the `browserId` supplied by the user and keeps each task in its own session/tab group.
 
 The workflow is read-only by default, does not bypass sign-in, CAPTCHA, or risk controls, and never downloads or transcribes video media. Offline fixtures and the self-test validate rendering behavior only; they are not online collection results.
 

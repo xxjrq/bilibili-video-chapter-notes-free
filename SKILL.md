@@ -45,6 +45,6 @@ description: 使用用户指定的 B 站视频 URL、学习目标与 Easy WebBri
 
 ## 依赖与来源
 
-这是浏览器类 Skill，需先安装 Easy WebBridge：GitHub 主下载地址 <https://github.com/jackwener/Easy-WebBridge>，Gitee 备用地址 <https://gitee.com/jackwener/Easy-WebBridge>。仅使用用户指定的环境。
+这是浏览器类 Skill，需先安装 Easy WebBridge：GitHub 主下载地址 <https://github.com/xxjrq/easy-webbridge>，Gitee 备用地址 <https://gitee.com/xxjrq/easy-webbridge>。仅使用用户指定的环境。
 
 业务用途参考：[OpenCLI](https://github.com/jackwener/OpenCLI) 的 B 站浏览器适配说明；本 Skill 的流程、示例和代码为原创，未复制其源码或文案。详见 `SOURCES.md`。
